@@ -1,0 +1,6 @@
+**First grep
+
+**objective - To find the flag from the File , using the grep function 
+
+**Solution - Use grep to find the string
+            grep 'flag' file OR cat file | grep 'flag'
